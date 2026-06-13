@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>隐私声明 - 小鸟过管道</title>
+<style>
+body{max-width:700px;margin:30px auto;padding:20px 24px;font:15px/1.8 -apple-system,"PingFang SC","Microsoft YaHei",sans-serif;color:#333;background:#fff}
+h1{font-size:22px;text-align:center;margin-bottom:30px;color:#222}
+h2{font-size:17px;margin:24px 0 10px;color:#444}
+p{margin:8px 0}
+</style>
+</head>
+<body>
+
+<h1>隐私声明</h1>
+<p>更新日期：2026年6月3日</p>
+
+<p>本隐私声明适用于「小鸟过管道」移动应用（以下简称"本游戏"）。我们高度重视您的隐私保护，特此说明本游戏如何处理您的信息。</p>
+
+<h2>一、我们不收集个人信息</h2>
+<p>本游戏是纯粹的本地单机游戏，<strong>不会收集、上传或分享您的任何个人信息</strong>。游戏运行不需要注册账号、不需要登录、不需要任何网络权限。</p>
+
+<h2>二、本地存储</h2>
+<p>游戏最高分记录仅保存在您设备的本地存储中，用于记录您的历史最佳成绩。该数据完全存储在您的设备上，我们无法访问。</p>
+
+<h2>三、音频权限</h2>
+<p>游戏包含简单的按键音效（跳跃、得分等），使用设备系统音频接口播放，不会录制或传输任何音频数据。</p>
+
+<h2>四、网络使用</h2>
+<p>本游戏不需要网络连接即可完整运行，不包含广告SDK，不接入任何第三方统计分析服务。</p>
+
+<h2>五、未成年人保护</h2>
+<p>本游戏面向所有年龄段用户，内容健康，不含任何不适宜内容。</p>
+
+<h2>六、声明更新</h2>
+<p>如本声明有更新，我们将在游戏内或相关渠道通知您。</p>
+
+<h2>七、联系我们</h2>
+<p>如有疑问，请联系邮箱：2914806@gmail.com</p>
+
+</body>
+</html>
